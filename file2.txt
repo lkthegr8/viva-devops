@@ -1,1 +1,3 @@
 initial content of file2
+
+file changed for version 2
