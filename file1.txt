@@ -1,4 +1,4 @@
 initial content of the file1
 
-file changed for version 3 
-and have a great day
+after creating the branches
+this is master version 4
